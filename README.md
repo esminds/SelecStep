@@ -1,7 +1,7 @@
 # SelecStep
 ### Simplifying Sequential & Motion Control
 
-**SelecStep is a lightweight programming platform for sequential automation and motion control, designed to simplify the development of embedded control applications.**
+**SelecStep is a lightweight sequential and motion control platform implemented on resource-constrained 8-bit microcontrollers.**
 
 Instead of writing traditional embedded firmware for every application, users can define control sequences through a structured, step-based programming approach.
 
