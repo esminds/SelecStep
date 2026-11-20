@@ -1,5 +1,6 @@
 # SelecStep
 ### Simplifying Sequential & Motion Control
+<img width="2048" height="2048" alt="selecstep-fmc" src="https://github.com/user-attachments/assets/5c872132-8aae-49f0-84e7-2639d9339bfa" />
 
 **SelecStep is a lightweight sequential and motion control platform implemented on resource-constrained 8-bit microcontrollers.**
 
@@ -56,6 +57,7 @@ STEP 5: LOOP
 This approach allows users to create automation behaviour without developing a new embedded firmware application for every machine.
 
 ### 🖥️ Online Simulator
+<img width="777" height="430" alt="fmc-hardware-trainer" src="https://github.com/user-attachments/assets/685490dd-66ad-4a64-aee3-41aee1a97e51" />
 
 SelecStep includes a browser-based simulator developed using JavaScript.
 
